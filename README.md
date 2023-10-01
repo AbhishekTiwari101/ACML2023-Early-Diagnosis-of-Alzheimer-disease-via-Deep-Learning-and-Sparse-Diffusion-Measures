@@ -68,7 +68,9 @@ TBSS_PT1
 Coronal brain slice representing the Uncinate fasciculus region, highlighted with p-value of two sample t-test(df=22). Green color: hypothesis testing tstat1 - Healthy CN > MCI, Red color: hypothesis testing tstat2 - Healthy CN < MCI.
 TBSS_pt2
 
+..................................................
 **Collaborators
+
 Name	                   Email ID
 Abhishek Tiwari	        at326@snu.edu.in
 Ananya Singhal	        as146@snu.edu.in
