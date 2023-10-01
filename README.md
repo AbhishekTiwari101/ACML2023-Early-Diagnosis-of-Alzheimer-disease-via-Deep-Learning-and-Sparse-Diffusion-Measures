@@ -70,8 +70,8 @@ TBSS_pt2
 
 ..................................................
 **Collaborators
-
-Name	                   Email ID
+.................................................
+Name	                 and   Email ID: 
 Abhishek Tiwari	        at326@snu.edu.in
 Ananya Singhal	        as146@snu.edu.in
 Dr. Saurabh J. Shigwan	saurabh.shigwan@snu.edu.in
